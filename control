@@ -1,0 +1,9 @@
+Package: com.zhenguwu.lyricsnobackground
+Name: LyricsNoBackground
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Removes the background on the Spotify lyrics card
+Maintainer: zhenguwu
+Author: zhenguwu
+Section: Tweaks
